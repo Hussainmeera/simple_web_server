@@ -72,6 +72,8 @@ Testing the webserver.
 ```
 # OUTPUT:
 ![Screenshot 2024-11-28 094103](https://github.com/user-attachments/assets/d8652a95-f347-4c10-9782-716666f2b493)
+![image](https://github.com/user-attachments/assets/443e3886-aed0-4817-ab2f-d2789019556c)
+
 
 
 # RESULT:
